@@ -32,6 +32,15 @@ public class Variaveis {
         // Variaveis para guardar uma cadeira de caracteres
         String sexoStr = "Masculino";
         
+        
+        /*
+            TPC:
+            1. O que são variaveis em java
+            1. Pesquisar sobre os tipos de variáveis em Java.
+            3. Criar 5 Variaveis a sua escolha para cada tipo encontrado.
+        */
+        
+
     }
     
 }
