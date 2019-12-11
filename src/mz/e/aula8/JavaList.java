@@ -16,7 +16,7 @@ public class JavaList {
     public static void main(String[] args) {
         
          ArrayList<Object> lista = new ArrayList();
-         Vector vector= new Vector(2, 5);
+         Vector vector= new Vector();
          
          Object[] nomes = new Object[10];
          
