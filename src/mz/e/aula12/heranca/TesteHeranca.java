@@ -9,10 +9,10 @@ public class TesteHeranca {
     
     public static void main(String[] args) {
         
-        Pessoa pessoa = new Pessoa();
-        Pessoa funcionario = new Funcionario();
+//        Pessoa pessoa = new Pessoa();
+//        Pessoa funcionario = new Funcionario();
         Pessoa visitante = new Visitante();
-        Pessoa chefe = new Chefe();
+        Chefe chefe = new Chefe();
         chefe.setNome("Marcos");
         
         Funcionario director = new Director();
@@ -21,8 +21,8 @@ public class TesteHeranca {
         faxineiro.setNome("Lucas");
 
         
-        chefe.atrasar();
-        faxineiro.atrasar();
+        chefe.trabalhar();
+        faxineiro.trabalhar();
         
 //        System.out.println("Chefe: " + chefe.getNome());
 //        System.out.println("Faxineiro: " + faxineiro.getNome());

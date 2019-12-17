@@ -13,6 +13,13 @@ public class Faxineiro extends Funcionario {
         System.out.println("EIsh, o faxineiro atrasou...");
     }
     
+    @Override
+    public void trabalhar() {
+        
+        System.out.println("O faxineiro trabalha.");
+
+    }
+    
     
     
 }
