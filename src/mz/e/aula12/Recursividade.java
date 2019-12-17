@@ -1,5 +1,5 @@
 
-package mz.e.aula12.recursividade;
+package mz.e.aula12;
 
 /**
  *
